@@ -205,7 +205,7 @@ nav {
     overflow: hidden;
     white-space: nowrap;
     animation: typing 5s steps(27), blink 1s ease-in-out 7s infinite;
-    width: 30ch;
+    width: 28ch;
     color: #fff;
     margin: auto;
     border-right: 4px solid rgba(255, 255, 255, 1);
@@ -217,7 +217,7 @@ nav {
         color: rgba(249, 105, 14, 1);
     }
     100% {
-        width: 27ch;
+        width: 28ch;
     }
 }
 
